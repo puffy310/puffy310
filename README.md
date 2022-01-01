@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @puffy310
 - 👀 I’m interested in ... AI/Ml, NLP and Computer Vision
 - 🌱 I’m currently learning ... NLP, and various techologies within AI/ML
-- 🥑 I'm Puffy Avacodo 😎 and also slighly incompetent.
+- 🥑 I'm Puffy Avacodo.
+- 😎 Using AI for silly things since 2021
 
 <!---
 puffy310/puffy310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
