@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puffy310, CEO at BirdL: Big Innovation Research and Devlopment Labs.
 - 👀 I’m interested in ... AI/Ml, Text To Image, Large Langauge Models, and other technology!
-- 🌱 I’m currently learning ... NLP, Hugging
+- 🌱 I’m currently learning ... NLP, HuggingFace
 - 😎 I love what I do and hope people could join along with me!
 
 <!---
