@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @puffy310, CEO at BirdL: Big Innovation Research and Devlopment Labs.
-- 👀 I’m interested in ... AI/Ml, Text To Image, Large Langauge Models, and other technology!
-- 🌱 I’m currently learning ... NLP, HuggingFace
-- 😎 I love what I do and hope people could join along with me!
+- 👀 I’m interested in ... AI/Ml, Text To Image, Large Langauge Models, Text To Video!
+- 🌱 I’m currently learning ... python library building, databases.
+- 😎 Chicken
 
 <!---
 puffy310/puffy310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
